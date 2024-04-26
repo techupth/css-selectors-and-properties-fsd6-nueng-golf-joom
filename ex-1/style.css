@@ -11,9 +11,3 @@ button {
   outline: lightgray solid;
   background-color: khaki;
 }
-
-input {
-  height: 500px;
-  width: 240px;
-  border-radius: 3px;
-}
