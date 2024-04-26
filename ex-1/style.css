@@ -1,3 +1,10 @@
+#username,
+#email,
+#password {
+  height: 50px;
+  width: 240px;
+  border-radius: 3px;
+}
 button {
   width: 120px;
   height: 36px;
