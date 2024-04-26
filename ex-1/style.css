@@ -6,6 +6,6 @@
 button{
     width: 120px;
     height: 36px;
-    color: lightgray;
+    outline: lightgray solid;
     background-color: khaki;
 }
